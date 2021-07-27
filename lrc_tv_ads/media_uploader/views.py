@@ -3,5 +3,5 @@ from django.http import HttpResponse
 
 
 def index(request):
-    return HttpResponse("Hello, world. You're at the media_uploader index.")
+    return HttpResponse("This is the media_uploader page.")
 # Create your views here.
