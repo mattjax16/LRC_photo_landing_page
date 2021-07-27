@@ -8,6 +8,6 @@ TO RUN THE FILE:
     * If you get a message that says `You have 18 unapplied migration(s).
     Your project may not work properly until you apply the migrations for app(s):
     admin, auth, contenttypes, sessions.`
-    Run `python magage.py migrate` to apply them in your command prompt/terminal.
+    <br>Run `python magage.py migrate` to apply them in your command prompt/terminal.
 * After go to the link provided by the program on your web browser
 
