@@ -14,3 +14,6 @@ def login_view(request):
 
 def signup_view(request):
     return  HttpResponse("<h1>This is the call to bring up the SIGNUP interface <h1>")
+
+def home(response):
+    pass
